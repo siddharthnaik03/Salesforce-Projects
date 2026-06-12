@@ -32,3 +32,21 @@ Developed an Employee Leave Management Portal using Salesforce Experience Cloud 
 ### Project Outcome
 Successfully implemented a self-service leave management portal that reduced manual leave tracking, automated approval workflows, improved communication through email notifications, and provided secure access for employees and HR personnel. This resulted in faster leave processing and enhanced employee experience.
 
+
+### Process Flow
+
+           Employee
+               |
+     Submit Leave Request
+               |
+     Manager Approval 
+               |
+           Approved?
+      /                       \
+    Yes                         No
+     |                            |
+Update Balance             Send Rejection Email   
+      |
+Send Approval Email
+
+
