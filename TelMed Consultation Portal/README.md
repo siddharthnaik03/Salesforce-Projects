@@ -1,4 +1,4 @@
-# TelMed Consualtation
+# TelMed Consultation
 ### Project Description:
 Developed a Telemedicine Consultation Portal using Salesforce Experience Cloud to enable patients and healthcare providers to manage virtual healthcare services efficiently. The portal allows patients to register, schedule appointments, submit consultation requests, and view medical records, while doctors can manage appointments, update consultation details, and monitor patient information through a secure platform.
 
