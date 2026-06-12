@@ -41,12 +41,13 @@ Successfully implemented a self-service leave management portal that reduced man
                |
      Manager Approval 
                |
-           Approved?
-      /                       \
-    Yes                         No
-     |                            |
-Update Balance             Send Rejection Email   
-      |
+            Approved?
+      /                     \
+   Yes                       No
+     |                        |
+Update Balance       Send Rejection Email  
+     |
 Send Approval Email
+
 
 
