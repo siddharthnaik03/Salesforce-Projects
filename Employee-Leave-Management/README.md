@@ -14,6 +14,8 @@ Developed an Employee Leave Management Portal using Salesforce Experience Cloud 
 
 •	Built Salesforce Flows to automatically update employee leave balances after manager approval.
 
+•	Implemented an HR Support feature in the Experience Cloud portal for employee assistance.
+
 ### Technologies Used
 
 •	Salesforce Administration 
