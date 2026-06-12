@@ -17,10 +17,15 @@ Developed an Employee Leave Management Portal using Salesforce Experience Cloud 
 ### Technologies Used
 
 •	Salesforce Administration 
+
 •	Experience Cloud 
+
 •	Flow Builder 
+
 •	Approval Process 
+
 •	Custom Objects & Relationships 
+
 •	Email Alerts & Templates 
 •	Profiles & Permission Sets 
 
