@@ -14,10 +14,10 @@ The dashboard tracks overall customer churn, active customers, churn rate percen
 * Understand factors contributing to customer attrition.
 
 ### Key Findings
-Overall churn rate is 23.48%.
-Customers aged 25–30 contribute the highest churn volume.
-Low-income customers show higher churn behavior compared to other income segments.
-Frequent flyer customers contribute significantly to churn.
-Customers with hotel booking history show higher churn compared to non-bookers.
-Social media connectivity influences customer retention patterns.
+* Overall churn rate is 23.48%.
+* Customers aged 25–30 contribute the highest churn volume.
+* Low-income customers show higher churn behavior compared to other income segments.
+* Frequent flyer customers contribute significantly to churn.
+* Customers with hotel booking history show higher churn compared to non-bookers.
+* Social media connectivity influences customer retention patterns.
 
