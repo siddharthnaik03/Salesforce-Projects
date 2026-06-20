@@ -21,3 +21,8 @@ The dashboard tracks overall customer churn, active customers, churn rate percen
 * Customers with hotel booking history show higher churn compared to non-bookers.
 * Social media connectivity influences customer retention patterns.
 
+### Technical Skills 
+Salesforce CRM Analytics, Analytics Studio, Dataset Management, Recipe Development, Aggregate Transformations, Dashboard Design, KPI Development, Data Visualization, Data Analytics, Data Preparation, Data Transformation
+
+
+
